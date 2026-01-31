@@ -10,9 +10,6 @@ Each time you open your terminal, you'll see something like:
 🎭 Improv Wisdom
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Yes, AND... builds scenes (and solutions)
-
-Instead of shutting down ideas, build on them. Even if the initial
-suggestion isn't perfect, there's usually something valuable to work with.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
@@ -66,18 +63,14 @@ Edit `~/.improv-wisdom.txt`. Format:
 ```
 Your principle here
 %
-The explanation or application
-%
 Another principle
-%
-Another explanation
 ```
 
-Each principle/explanation pair is separated by `%` on its own line.
+Each principle is separated by `%` on its own line.
 
 ## Credits
 
-Improv wisdom collected by [Lauren Morris](https://laurenoutloud.com) from years of teaching improv and applying it to tech/product work.
+Improv wisdom collected by [Lauren Morris](https://lol-website.netlify.app/) from years of teaching improv and applying it to tech/product work.
 
 ---
 
